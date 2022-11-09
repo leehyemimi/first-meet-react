@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+## 📢 1주차 (11/9)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 3장 JSX 소개
+- 4장 엘리먼트 렌더링
+- 5장 컴포넌트와 Props
 
-## Available Scripts
+## 📢 2주차 (11/16)
 
-In the project directory, you can run:
+- 6장 State와 생명주기
+- 7장 훅
 
-### `npm start`
+## 📢 3주차 (11/23)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 8장 이벤트 핸들링
+- 9장 조건부 렌더링
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📢 4주차 (11/30)
 
-### `npm test`
+- 10장 리스트와 키
+- 11장 폼
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📢 5주차 (12/07)
 
-### `npm run build`
+- 12장 State 끌어올리기
+- 13장 합성 vs. 상속
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📢 6주차 (12/14)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 14장 컨텍스트
+- 15장 스타일링
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📢 7주차 (12/21)
 
-### `npm run eject`
+- 16장 미니 프로젝트\_미니 블로그 만들기
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📖 책
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://product.kyobobook.co.kr/detail/S000061352352?LINK=NVM&NaPm=ct%3Dl9p4niiw%7Cci%3Dab454a1ca306aca5c6c9bcc0f4367c41b38a4d46%7Ctr%3Dboksl1%7Csn%3D5342564%7Chk%3D1c01bc2ec361a8f6b17ae57b7b614c70088f9f85
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 인프런 강의
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8
