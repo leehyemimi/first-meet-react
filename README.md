@@ -1,8 +1,8 @@
 ## 📢 1주차 (11/9)
 
-- 3장 JSX 소개 - https://velog.io/@leehyemimi/first-meet-react-%EC%8A%A4%ED%84%B0%EB%94%94%EC%A0%95%EB%A6%AC1
-- 4장 엘리먼트 렌더링 - https://velog.io/@leehyemimi/%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81
-- 5장 컴포넌트와 Props - https://velog.io/@leehyemimi/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-Props
+- 3장 JSX 소개 
+- 4장 엘리먼트 렌더링
+- 5장 컴포넌트와 Props
 
 ## 📢 2주차 (11/16)
 
